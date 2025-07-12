@@ -1,1 +1,1 @@
-# OpenCV_Mini_Projects
+# Resizing video to 50 Percent	
